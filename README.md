@@ -1,1 +1,1 @@
-# covidpred
+# covidprediction app demo project 
